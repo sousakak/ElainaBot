@@ -1,0 +1,11 @@
+括弧内はreplitのフォントに登録したフォント名
+851MKPOP : 851マカポップ (MakaPop)
+HGRSKP : HG正楷書体 —PRO ﾒﾃﾞｨｳﾑ (HG正楷書体)
+HGRSMP : HG丸ゴシック M—PRO ﾒﾃﾞｨｳﾑ (HG丸ゴシック)
+HUIFONT29 : ふい字　標準 (ふい字)
+UDDIGIKYOKASHON-R : UD デジタル 教科書体 N-R 標準 (UD_デジタル_教科書体_N-R_標準)
+YUJISYUKU-REGULAR : 佑字【粛】 (佑字)
+衡山毛筆フォント : 衡山毛筆フォント (衡山毛筆フォント)
+
+登録する時：
+  curl "https://testing.19wintersp.repl.co/⧼ファイル名⧽" -o ⧼登録するフォント名⧽

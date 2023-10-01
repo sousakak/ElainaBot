@@ -1,0 +1,23 @@
+body : index.py
+Different : 
+    How to set environment variables. Replit has a System environment variables "secrets".
+        Different from the bottom of config.py
+    Loading keep_alive in index.py.
+    Whether server.py is present or not.
+    Uptime Robot.
+####
+When you want to install ffmpeg on replit: 
+    `npm install ffmpeg-static --save`
+
+-----
+本体 : index.py
+replitとの差異 : 
+    replitには環境変数ファイル .env がない (replit の secret 機能を使用している)
+        config.py の最後がちょっと違う
+    index.py でkeep_aliveを読み込み実行している点
+    server.py の存在
+    Uptime Robot を忘れずに！
+#####
+replitでffmpegを導入する際はシェルでこれを実行 : 
+    npm install ffmpeg-static --save
+replit.nix の LANG はja_JP.UTF_8にするとエラーが出る
